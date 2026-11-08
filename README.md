@@ -63,3 +63,6 @@ Facebook [@hessovalais](https://www.facebook.com/hessovalais) &nbsp;&middot;&nbs
 Twitter [@hessovalais](https://twitter.com/hessovalais) &nbsp;&middot;&nbsp;
 LinkedIn [HES-SO Valais-Wallis](https://www.linkedin.com/groups/104343/) &nbsp;&middot;&nbsp;
 Youtube [HES-SO Valais-Wallis](https://www.youtube.com/user/HESSOVS)
+
+
+test commit
