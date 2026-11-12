@@ -15,11 +15,13 @@ All student documents for the [HEI-Vs](https://hevs.ch/synd) Engineering Course 
 * [Projectdocuments](project)
 * [Exercises](exercises)
 
-## File numbering
+## File naming
 
 The files of the folders `course`, `slides`, `exercises` and `labo` start with a number,
 so that they are listed in the order of the lessons.
 
+
+* files are oragnised in `fr` / `de` / `en` subfolders for different languages
 * `course`, `slides`, `exercises`: the number is the number of the chapter (`01-` NUM, `02-` COM, ...).
   It is the same in all three folders: `02-DiD-Slides-COM-f.pdf` matches `02-DiD-Script-COM-f.pdf`
   and `02-did-exercises-com-fr.pdf`. Chapters without exercises have no exercise file.
@@ -63,6 +65,3 @@ Facebook [@hessovalais](https://www.facebook.com/hessovalais) &nbsp;&middot;&nbs
 Twitter [@hessovalais](https://twitter.com/hessovalais) &nbsp;&middot;&nbsp;
 LinkedIn [HES-SO Valais-Wallis](https://www.linkedin.com/groups/104343/) &nbsp;&middot;&nbsp;
 Youtube [HES-SO Valais-Wallis](https://www.youtube.com/user/HESSOVS)
-
-
-test commit
